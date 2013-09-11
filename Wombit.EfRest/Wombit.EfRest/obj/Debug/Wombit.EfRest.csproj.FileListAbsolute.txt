@@ -1,0 +1,4 @@
+C:\Projects\git\EfRest\Wombit.EfRest\Wombit.EfRest\bin\Debug\Wombit.EfRest.dll
+C:\Projects\git\EfRest\Wombit.EfRest\Wombit.EfRest\bin\Debug\Wombit.EfRest.pdb
+C:\Projects\git\EfRest\Wombit.EfRest\Wombit.EfRest\obj\Debug\Wombit.EfRest.dll
+C:\Projects\git\EfRest\Wombit.EfRest\Wombit.EfRest\obj\Debug\Wombit.EfRest.pdb
